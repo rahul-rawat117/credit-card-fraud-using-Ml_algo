@@ -1,0 +1,33 @@
+# Large dataset file
+creditcard.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model artifacts (optional - you might want to include these)
+# *.pkl
+
+# Logs
+*.log
