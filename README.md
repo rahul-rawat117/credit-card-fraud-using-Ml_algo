@@ -1,16 +1,16 @@
 # Credit Card Fraud Detection System
 
-🚀 **[Live Demo](https://your-app-name.streamlit.app)** | 📊 **[GitHub Repository](https://github.com/YOUR-USERNAME/credit-card-fraud-detection)**
+🚀 [Live Demo]((https://creditcardfraudrahulapex.streamlit.app/))| 📊 [GitHub Repository](https://github.com/rahul-rawat117/credit-card-fraud-using-Ml_algo))
 
 A complete machine learning system for detecting credit card fraud with multiple models and a Streamlit web interface.
 
 ## Features
 
-- **Multiple ML Models**: Logistic Regression, Decision Tree, Random Forest, SVM, Gradient Boosting
-- **Class Imbalance Handling**: SMOTE oversampling technique
-- **Interactive Web UI**: Streamlit-based interface for real-time predictions
-- **Model Comparison**: Visual comparison of model performances
-- **Modular Design**: Separate modules for preprocessing, training, and deployment
+- Multiple ML Models: Logistic Regression, Decision Tree, Random Forest, SVM, Gradient Boosting
+- Class Imbalance Handling: SMOTE oversampling technique
+- Interactive Web UI: Streamlit-based interface for real-time predictions
+- Model Comparison: Visual comparison of model performances
+- Modular Design: Separate modules for preprocessing, training, and deployment
 
 ## Project Structure
 
@@ -54,9 +54,9 @@ streamlit run app.py
 ```
 
 The web app provides:
-- **Fraud Detection Tab**: Input transaction features and get real-time predictions
-- **Model Comparison Tab**: View performance metrics of all trained models
-- **Interactive Gauges**: Visual representation of fraud probability
+- Fraud Detection Tab: Input transaction features and get real-time predictions
+- Model Comparison Tab: View performance metrics of all trained models
+- Interactive Gauges: Visual representation of fraud probability
 
 ## Model Performance
 
@@ -77,15 +77,15 @@ Models are evaluated using:
 ## Dataset
 
 The system expects a credit card fraud dataset with:
-- **Time**: Time elapsed since first transaction
-- **Amount**: Transaction amount
-- **V1-V28**: PCA-transformed features
-- **Class**: Target variable (0=Legitimate, 1=Fraud)
+- Time: Time elapsed since first transaction
+- Amount: Transaction amount
+- V1-V28: PCA-transformed features
+- Class: Target variable (0=Legitimate, 1=Fraud)
 
 ## Key Features
 
-- **Data Preprocessing**: Automatic scaling of Amount and Time features
-- **Class Imbalance**: SMOTE oversampling for balanced training
-- **Model Selection**: Automatic selection of best model based on F1-score
-- **Real-time Prediction**: Interactive web interface for fraud detection
-- **Visualization**: Performance comparison charts and fraud probability gauges
+- Data Preprocessing: Automatic scaling of Amount and Time features
+- Class Imbalance: SMOTE oversampling for balanced training
+- Model Selection: Automatic selection of best model based on F1-score
+- Real-time Prediction: Interactive web interface for fraud detection
+- Visualization: Performance comparison charts and fraud probability gauges
