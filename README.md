@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection System
 
-🚀 [Live Demo]((https://creditcardfraudrahulapex.streamlit.app/))| 📊 [GitHub Repository](https://github.com/rahul-rawat117/credit-card-fraud-using-Ml_algo))
+🚀 [Live Demo]((https://creditcardfraudrahulapex.streamlit.app)) | 📊 [GitHub Repository](https://github.com/rahul-rawat117/credit-card-fraud-using-Ml_algo))
 
 A complete machine learning system for detecting credit card fraud with multiple models and a Streamlit web interface.
 
